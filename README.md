@@ -21,6 +21,8 @@
   <dd>
 <dl>
   <dd>
+<dl>
+  <dd>
 <div flex align='center'>
 
 <img height=30 src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -35,6 +37,8 @@
 <img height=30 src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
 </div>
+  </dd>
+</dl>
   </dd>
 </dl>
   </dd>
