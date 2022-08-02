@@ -1,4 +1,4 @@
-<h2 align='center'>  Heyo, it's Meng 👋 </h2>
+<h2 align='center'>  Hi, it's Meng 👋 </h2>
 <p align='center'> <b> I love beautiful/useful web interfaces and IoT</b> </p>
 
 
