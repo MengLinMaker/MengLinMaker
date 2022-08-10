@@ -57,7 +57,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengLinMaker&layout=compact)](https://github.com/MengLinMaker/github-readme-stats)
 
 </div>
-
+<p align="center">Note: C++ files are disproportionately long</p>
 
 
 
