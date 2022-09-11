@@ -15,36 +15,22 @@
 
 <p align='center'> <b> Some of my web dev tools: </b> </p>
 
-<dl>
-  <dd>
-<dl>
-  <dd>
-<dl>
-  <dd>
-<dl>
-  <dd>
+<div>&nbsp</div>
+
 <div flex align='center'>
+  <img height=30 src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img height=30 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-<img height=30 src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img height=30 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img height=30 src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img height=30 src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<img height=30 src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img height=30 src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img height=30 src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
 
-<img height=30 src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-
-<img height=30 src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img height=30 src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-
+  <img height=30 src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img height=30 src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
-  </dd>
-</dl>
-  </dd>
-</dl>
-  </dd>
-</dl>
-  </dd>
-</dl>
+
+<div>&nbsp</div>
 
 
 
@@ -57,7 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengLinMaker&layout=compact)](https://github.com/MengLinMaker/github-readme-stats)
 
 </div>
-<p align="center">Note: C++ files are disproportionately long</p>
+<p align="center">C++ files are incredibly long 😅</p>
 
 
 
