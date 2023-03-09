@@ -3,11 +3,25 @@
 <p align='center'>🌱 I'm a continuously learning developer who loves to be hands on.</p>
 <p align='center'>🔍 Explore my projects below:</p>
 
+
+
+<img height=50 width=100% src="https://static.wixstatic.com/media/9b7de5_654794e60495410b9e22e494aeb3336d~mv2.gif"/>
+
+
+
 <div align='center'>
-<a href="https://github.com/MengLinMaker/Hip-Motion-Player"><img width=400px height=210px src="https://user-images.githubusercontent.com/39476147/224037990-f7bcf3e8-f0fb-47a4-9b23-752a9bbdc7d5.gif"/></a>
-<a href="https://github.com/MengLinMaker/Midi-Virtual-Piano"><img width=400px height=210px src="https://user-images.githubusercontent.com/39476147/180583827-fedcb6ce-e4b0-46ad-99b0-ca66c572d504.gif"/></a>
+  <a href="https://github.com/MengLinMaker/Midi-Virtual-Piano"><img width=50% height=240px src="https://user-images.githubusercontent.com/39476147/180583827-fedcb6ce-e4b0-46ad-99b0-ca66c572d504.gif"/></a>
+  <a href="https://github.com/MengLinMaker/Modified-RRT-Path-Finding"><img width=30% height=240px src="https://user-images.githubusercontent.com/39476147/218465217-fb1fb7b0-9d08-4bb0-a63d-3a51b23a8f39.gif"/></a>
 </div>
 
+<div align='center'>
+  <a href="https://github.com/MengLinMaker/Tic-Tac-Toe-Plus-v1"><img width=30% height=280px src="https://user-images.githubusercontent.com/39476147/198872292-b4db6411-2a7a-4c2b-bfc2-c47d2f63540b.gif"/></a>
+  <a href="https://github.com/MengLinMaker/Hip-Motion-Player"><img width=50% height=280px src="https://user-images.githubusercontent.com/39476147/224037990-f7bcf3e8-f0fb-47a4-9b23-752a9bbdc7d5.gif"/></a>
+</div>
+
+
+
+<img height=50 width=100% src="https://static.wixstatic.com/media/9b7de5_654794e60495410b9e22e494aeb3336d~mv2.gif"/>
 
 
 
@@ -30,8 +44,6 @@
 </div>
 
 <div>&nbsp</div>
-
-<img height=50 width=100% src="https://static.wixstatic.com/media/9b7de5_654794e60495410b9e22e494aeb3336d~mv2.gif"/>
 
 
 
