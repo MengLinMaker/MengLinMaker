@@ -25,7 +25,6 @@
 
 
 
-
 <p align='center'> <b> Some of my web dev tools: </b> </p>
 
 <div>&nbsp</div>
@@ -43,42 +42,12 @@
   <img height=30 src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
+
+
 <div>&nbsp</div>
 
 
 
-
-
-
-
 <div align='center'>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengLinMaker&layout=compact)](https://github.com/MengLinMaker/github-readme-stats)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=-C,-?"/>
 </div>
-<p align="center">C++ files are incredibly long 😅</p>
-
-
-
-
-
-
-<!--
-<img height=100 src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=-C,-?"/>
--->
-
-
-<!--
-**MengLinMaker/MengLinMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
