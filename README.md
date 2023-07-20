@@ -1,6 +1,5 @@
 <h2 align='center'> Hi, I'm Meng 👋 </h2>
-<p align='center'> <b>✨ I love beautiful web interfaces</b> </p>
-<p align='center'>🌱 I'm a continuously learning developer who loves to be hands on.</p>
+<p align='center'> <b> I'm a contributor to MuseScore who loves to work on side projects.</b> </p>
 <p align='center'>🔍 Explore my projects below:</p>
 
 
