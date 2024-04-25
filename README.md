@@ -5,15 +5,15 @@ I mainly work on data oriented software. Keen on exploring cool tech:
 * ⚛️ Sensor fusion for 3D motion capture.
 * 🍪 Cookie injection for webscraping.
 
-As a music lover, I occasionally contribute to MuseScore (the notation app) and write some <a href="https://musescore.com/mangojc">music</a>.
+As a music lover, I occasionally contribute to [MuseScore](https://github.com/musescore/MuseScore) (the notation app) and write some [music](https://musescore.com/mangojc).
 
-I'm on a journey to become less of a kool aid dev - everything has a tradeoff.
+Becoming less of a kool aid dev - everything has a tradeoff. Learn with me on [Medium](https://medium.com/@menglinmaker).
 
 <div>&nbsp</div>
 
 **Oh, you have something to say to me?**
 
-* ✉️ Send an <a href="mailto:menglinmaker@gmail.com">email</a>.
+* ✉️ Send an [email](mailto:menglinmaker@gmail.com).
 
 <div>&nbsp</div>
 
