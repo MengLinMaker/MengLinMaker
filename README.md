@@ -7,7 +7,13 @@ I mainly work on data oriented software. Keen on exploring cool tech:
 
 As a music lover 🎵, I occasionally contribute to MuseScore (the notation app) and write some <a href="https://musescore.com/mangojc">music</a>.
 
-Oh, you have something to say to me? Send an <a href="mailto:menglinmaker@gmail.com">email</a>.
+Everything has a tradeoff. I'm on a journey to become less of a kool aid dev.
+
+<div>&nbsp</div>
+
+**Oh, you have something to say to me?**
+
+* ✉️ Send an <a href="mailto:menglinmaker@gmail.com">email</a>.
 
 <div>&nbsp</div>
 
