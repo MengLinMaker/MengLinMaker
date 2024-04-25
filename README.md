@@ -1,4 +1,4 @@
-# Hi, I'm Meng 👋
+# Hey, I'm Meng! 👋
 I mainly work on data oriented software. Keen on exploring cool tech:
 
 * 🚀 Massively parallel lambdas to speed up AI inferencing.
@@ -7,7 +7,7 @@ I mainly work on data oriented software. Keen on exploring cool tech:
 
 As a music lover 🎵, I occasionally contribute to MuseScore (the notation app) and write some <a href="https://musescore.com/mangojc">music</a>.
 
-Everything has a tradeoff. I'm on a journey to become less of a kool aid dev.
+I'm on a journey to become less of a kool aid dev - everything has a tradeoff.
 
 <div>&nbsp</div>
 
@@ -19,7 +19,7 @@ Everything has a tradeoff. I'm on a journey to become less of a kool aid dev.
 
 
 
-## 🔍 Explore my projects below:
+## 🔍 Explore my Math.rand() projects below:
 
 <div align='center'>
     <h3><a href="https://www.musidi.org/">Musidi</a></h3>
@@ -41,7 +41,7 @@ Everything has a tradeoff. I'm on a journey to become less of a kool aid dev.
 
 
 
-## 📈 Superficial stats
+## 📈 Superficial stats:
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=oldie&no-bg=true&no-frame=false&column=3&margin-w=15&margin-h=15"/>
