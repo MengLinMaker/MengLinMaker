@@ -1,12 +1,19 @@
-<h2 align='center'> Hi, I'm Meng 👋 </h2>
-<p align='center'> <b> I'm a contributor to MuseScore who loves to work on side projects.</b> </p>
-<p align='center'>🔍 Explore my projects below:</p>
+# Hi, I'm Meng 👋
+I mainly work on data oriented software. Keen on exploring cool tech:
+
+* 🚀 Massively parallel lambdas to speed up AI inferencing.
+* ⚛️ Sensor fusion for 3D motion capture.
+* 🍪 Cookie injection for webscraping.
+
+As a music lover 🎵, I occasionally contribute to MuseScore (the notation app) and write some <a href="https://musescore.com/mangojc">music</a>.
+
+Oh, you have something to say to me? Send an <a href="mailto:menglinmaker@gmail.com">email</a>.
+
+<div>&nbsp</div>
 
 
 
-<img height=50 width=100% src="https://static.wixstatic.com/media/9b7de5_654794e60495410b9e22e494aeb3336d~mv2.gif"/>
-
-
+## 🔍 Explore my projects below:
 
 <div align='center'>
     <h3><a href="https://www.musidi.org/">Musidi</a></h3>
@@ -24,10 +31,11 @@
 </div>
 
 <div>&nbsp</div>
+<div>&nbsp</div>
 
-<img height=50 width=100% src="https://static.wixstatic.com/media/9b7de5_654794e60495410b9e22e494aeb3336d~mv2.gif"/>
 
 
+## 📈 Superficial stats
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=oldie&no-bg=true&no-frame=false&column=3&margin-w=15&margin-h=15"/>
