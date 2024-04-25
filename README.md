@@ -5,7 +5,7 @@ I mainly work on data oriented software. Keen on exploring cool tech:
 * ⚛️ Sensor fusion for 3D motion capture.
 * 🍪 Cookie injection for webscraping.
 
-As a music lover 🎵, I occasionally contribute to MuseScore (the notation app) and write some <a href="https://musescore.com/mangojc">music</a>.
+As a music lover, I occasionally contribute to MuseScore (the notation app) and write some <a href="https://musescore.com/mangojc">music</a>.
 
 I'm on a journey to become less of a kool aid dev - everything has a tradeoff.
 
