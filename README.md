@@ -7,7 +7,7 @@ I mainly work on data oriented software. Keen on exploring cool tech:
 
 As a music lover, I occasionally contribute to [MuseScore](https://github.com/musescore/MuseScore) (the notation app) and write some [music](https://musescore.com/mangojc).
 
-Becoming less of a kool aid dev - everything has a tradeoff. Learn with me on [Medium](https://medium.com/@menglinmaker).
+Learn with me on [Medium](https://medium.com/@menglinmaker).
 
 <div>&nbsp</div>
 
