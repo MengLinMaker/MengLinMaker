@@ -1,9 +1,9 @@
 # Hey, I'm Meng! 👋
 I mainly work on data oriented software. Keen on exploring cool tech:
 
-* 🚀 Massively parallel lambdas to speed up AI inferencing.
-* ⚛️ Sensor fusion for 3D motion capture.
-* 🍪 Cookie injection for webscraping.
+* 🛠️ [Linting for API compatability issues in JavaScript runtimes.](https://github.com/MengLinMaker/eslint-plugin-runtime-compat)
+* 🚀 [Massively parallel lambdas to speed up AI inferencing.](https://medium.com/aws-tip/fast-piano-transcription-on-aws-part-3-e1d684b20e9d)
+* ⚛️ [Sensor fusion for 3D motion capture.](https://github.com/MengLinMaker/eslint-plugin-runtime-compat)
 
 As a music lover, I occasionally contribute to [MuseScore](https://github.com/musescore/MuseScore) (the notation app) and write some [music](https://musescore.com/mangojc).
 
