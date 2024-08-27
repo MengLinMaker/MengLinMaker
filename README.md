@@ -1,5 +1,5 @@
 # Hey, I'm Meng! 👋
-I mainly work on data oriented software. Keen on exploring cool tech:
+I mainly work on data oriented software. Here are some problems I've been tackling:
 
 * 🛠️ [Linting for API compatability issues in JavaScript runtimes.](https://github.com/MengLinMaker/eslint-plugin-runtime-compat)
 * 🚀 [Massively parallel lambdas to speed up AI inferencing.](https://medium.com/aws-tip/fast-piano-transcription-on-aws-part-3-e1d684b20e9d)
