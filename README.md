@@ -44,5 +44,5 @@ Learn with me on [Medium](https://medium.com/@menglinmaker).
 ## 📈 Superficial stats:
 
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=oldie&no-bg=true&no-frame=false&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=SECRET,SSS,SS,S,AAA,AA&theme=oldie&no-bg=true&no-frame=false&column=3&margin-w=15&margin-h=15"/>
 </div>
