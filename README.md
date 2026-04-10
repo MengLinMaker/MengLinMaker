@@ -1,48 +1,40 @@
-# Hey, I'm Meng! 👋
-I mainly work on data oriented software. Here are some problems I've been tackling:
+# MengLinMaker
+Building systems on top of **messy real-world data**.
+I focus on:
+- Data pipelines with observability to detect poorly processed data.
+- Local-first analytical UX for interactive data exploration.
+- Developer tools to catch issues during development.
 
-* 🛠️ [Linting for API compatability issues in JavaScript runtimes.](https://github.com/MengLinMaker/eslint-plugin-runtime-compat)
-* 🚀 [Massively parallel lambdas to speed up AI inferencing.](https://medium.com/aws-tip/fast-piano-transcription-on-aws-part-3-e1d684b20e9d)
-* ⚛️ [Sensor fusion for 3D motion capture.](https://github.com/MengLinMaker/Hip-Motion-Player)
+## ✍️ [Writing](https://medium.com/@menglinmaker)
+I write about **things that broke, tradeoffs, and what didn’t work**:
+- Serverless GPU vs CPU inference for ML workloads.
+- Iterating on a data pipeline from concept to production.
 
-As a music lover, I occasionally contribute to [MuseScore](https://github.com/musescore/MuseScore) (the notation app) and write some [music](https://musescore.com/mangojc).
+## 🤝 Open source
+- Won a 1000 USD open source bounty ([SolidHack 2024](https://opencollective.com/solid/projects/solidhack-2024/expenses/226889)) for a UI component contribution.
+- Currently contributing [external Docker image support](https://github.com/anomalyco/sst/pull/6359) to SST.
+- Added dependency highlighting to the [Skott](https://github.com/antoine-coulon/skott/pull/180) dependency visualiser.
 
-Learn with me on [Medium](https://medium.com/@menglinmaker).
+## 🚀 Selected work
 
-<div>&nbsp</div>
+### 🏠 [NewHomie](https://github.com/New-Homie/new-homie) — real estate analytics
+Analytics platform for finding a place to live in Australia:
+- Transforming messy scraped property data to help users compare properties across different buying strategies.
+- Observable pipeline with fault tolerance on AWS (OpenTelemetry + LGTM).
+- Local-first dashboard as code (DuckDB WASM).
+- In production since October 2025.
 
-**Oh, you have something to say to me?**
+### 🎹 [Musidi](https://www.musidi.org/) - on-demand piano transcription
+Serverless ML piano audio to MIDI converter:
+- [Highly parallel AWS Lambda architecture](https://medium.com/aws-tip/piano-transcription-saas-on-aws-ed73ac9c51d)
+- Explores tradeoffs between CPU/GPU inference and parallel processing strategies.
+- In production since April 2024.
 
-* ✉️ Send an [email](mailto:menglinmaker@gmail.com).
+### 🧩 [eslint-plugin-runtime-compat](https://github.com/MengLinMaker/eslint-plugin-runtime-compat)
+ESLint plugin for detecting runtime compatibility issues:
+- Catches runtime incompatibilities statically before they reach production.
+- Built for server-side libraries that need compatibility across runtimes.
 
-<div>&nbsp</div>
-
-
-
-## 🔍 Explore my Math.rand() projects below:
-
-<div align='center'>
-    <h3><a href="https://www.musidi.org/">Musidi</a></h3>
-    <p>Serverless piano transcription app.</p>
-    <p>Transcribe and learn from other pianists.</p>
-    <img width=500px height=300px src="https://github.com/musidi-org/.github/assets/39476147/33669a36-5895-4130-b5ce-59aa235cf7ab"/>
-    <h3><a href="https://github.com/MengLinMaker/Hip-Motion-Player">Fall Detector/Visualiser</a></h3>
-    <p>Diagnose fall injuries and prevent falls using 3D visualisation.</p>
-    <p>Data scientists can collect labelled data to train better fall detection algorithms.</p>
-    <img width=500px height=285px src="https://user-images.githubusercontent.com/39476147/224037990-f7bcf3e8-f0fb-47a4-9b23-752a9bbdc7d5.gif"/>
-    <h3><a href="https://github.com/MengLinMaker/Midi-Virtual-Piano">3D Virtual Piano</a></h3>
-    <p>As a huge piano fan, I found existing virtual pianos to be rather lacklustre.</p>
-    <p>Why not create my own!</p>
-    <img width=500px height=240px src="https://user-images.githubusercontent.com/39476147/180583827-fedcb6ce-e4b0-46ad-99b0-ca66c572d504.gif"/>
-</div>
-
-<div>&nbsp</div>
-<div>&nbsp</div>
-
-
-
-## 📈 Superficial stats:
-
-<div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=MengLinMaker&rank=SECRET,SSS,SS,S,AAA,AA&theme=oldie&no-bg=true&no-frame=false&column=3&margin-w=15&margin-h=15"/>
-</div>
+## Note
+Most projects are iterative and evolve through real-world usage and constraints.
+I optimise for learning through real-world projects.
