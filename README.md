@@ -24,11 +24,16 @@ Analytics platform for finding a place to live in Australia:
 - Local-first dashboard as code (DuckDB WASM).
 - In production since October 2025.
 
+<img width=500px height=300px src="https://github.com/user-attachments/assets/c104b2af-59d4-4d01-bc1e-520ef6518b9c" />
+
 ### 🎹 [Musidi](https://www.musidi.org/) - on-demand piano transcription
 Serverless ML piano audio to MIDI converter:
 - [Highly parallel AWS Lambda architecture](https://medium.com/aws-tip/piano-transcription-saas-on-aws-ed73ac9c51d)
 - Explores tradeoffs between CPU/GPU inference and parallel processing strategies.
 - In production since April 2024.
+
+<img width=500px height=300px src="https://github.com/musidi-org/.github/assets/39476147/33669a36-5895-4130-b5ce-59aa235cf7ab"/>
+
 
 ### 🧩 [eslint-plugin-runtime-compat](https://github.com/MengLinMaker/eslint-plugin-runtime-compat)
 ESLint plugin for detecting runtime compatibility issues:
