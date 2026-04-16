@@ -7,8 +7,8 @@ I focus on:
 
 ## ✍️ [Writing](https://medium.com/@menglinmaker)
 I write about **things that broke, tradeoffs, and what didn’t work**:
+- [Iterating on a data pipeline from concept to production](https://medium.com/@menglinmaker/building-newhomie-property-analytics-tool-part-1-43be7c8438f6).
 - Serverless GPU vs CPU inference for ML workloads.
-- Iterating on a data pipeline from concept to production.
 
 ## 🤝 Open source
 - Won a 1000 USD open source bounty ([SolidHack 2024](https://opencollective.com/solid/projects/solidhack-2024/expenses/226889)) for a UI component contribution.
